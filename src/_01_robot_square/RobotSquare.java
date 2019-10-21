@@ -13,6 +13,7 @@ public class RobotSquare {
  
     	// 1. Make a new Robot
     	Robot bob = new Robot();
+    	//hi!
 
         // 3. Put the robot's pen down
 
