@@ -8,7 +8,7 @@ public class MyJavaProgram {
 		
 		// START HERE
 	Robot robot = new Robot();
-		
+	robot.move(3);
 		
 	}
 }
